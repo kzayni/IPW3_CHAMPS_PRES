@@ -178,74 +178,6 @@ CHAMPS pressure distributions are consistent across the grid hierarchy at all th
 
 \end{frame}
 
-% ============================================================
-% ONERA M6 -- Droplet Impingement: Eulerian vs Lagrangian
-% ============================================================
-
-\begin{frame}{\small ONERA M6 -- Droplet Collection Efficiency (L1, 1 Bin -- Eulerian vs Lagrangian)}
-\scriptsize
-
-\vspace{-0.20cm}
-
-\begin{columns}[T,onlytextwidth]
-
-% ------------------------------------------------------------
-% y = 0.10 m
-% ------------------------------------------------------------
-\begin{column}{0.33\textwidth}
-    \centering
-    \textbf{$y=0.10$ m}
-
-    \includegraphics[
-        width=\textwidth,
-        trim={0cm 0cm 1cm 1.2cm},
-        clip
-    ]
-    {FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p1_roughness_1mm.png}
-\end{column}
-
-% ------------------------------------------------------------
-% y = 0.75 m
-% ------------------------------------------------------------
-\begin{column}{0.33\textwidth}
-    \centering
-    \textbf{$y=0.75$ m}
-
-    \includegraphics[
-        width=\textwidth,
-        trim={0cm 0cm 1cm 1.2cm},
-        clip
-    ]
-    {FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p75_roughness_1mm.png}
-\end{column}
-
-% ------------------------------------------------------------
-% y = 1.40 m
-% ------------------------------------------------------------
-\begin{column}{0.33\textwidth}
-    \centering
-    \textbf{$y=1.40$ m}
-
-    \includegraphics[
-        width=\textwidth,
-        trim={0cm 0cm 1cm 1.2cm},
-        clip
-    ]
-    {FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_1p4_roughness_1mm.png}
-\end{column}
-
-\end{columns}
-
-\vspace{-0.05cm}
-
-\begin{block}{\scriptsize Impingement Assessment}
-The Eulerian and Lagrangian CHAMPS formulations predict nearly identical
-collection-efficiency distributions at all three spanwise stations, with
-consistent peak collection efficiencies and impingement extents.
-\end{block}
-
-\end{frame}
-
 
 % ============================================================
 % ONERA M6 -- Droplet Impingement: Bin Refinement
@@ -313,6 +245,74 @@ consistent peak collection efficiencies and impingement extents.
     \item Differences between the droplet distributions are less apparent than for the NACA0012 case, as the droplet-size distributions are more concentrated around the MVD.
     \item The remaining differences are primarily observed near the peak collection efficiency and at the impingement limits.
 \end{itemize}
+\end{block}
+
+\end{frame}
+
+% ============================================================
+% ONERA M6 -- Droplet Impingement: Eulerian vs Lagrangian
+% ============================================================
+
+\begin{frame}{\small ONERA M6 -- Droplet Collection Efficiency (L1, 1 Bin -- Eulerian vs Lagrangian)}
+\scriptsize
+
+\vspace{-0.20cm}
+
+\begin{columns}[T,onlytextwidth]
+
+% ------------------------------------------------------------
+% y = 0.10 m
+% ------------------------------------------------------------
+\begin{column}{0.33\textwidth}
+    \centering
+    \textbf{$y=0.10$ m}
+
+    \includegraphics[
+        width=\textwidth,
+        trim={0cm 0cm 1cm 1.2cm},
+        clip
+    ]
+    {FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p1_roughness_1mm.png}
+\end{column}
+
+% ------------------------------------------------------------
+% y = 0.75 m
+% ------------------------------------------------------------
+\begin{column}{0.33\textwidth}
+    \centering
+    \textbf{$y=0.75$ m}
+
+    \includegraphics[
+        width=\textwidth,
+        trim={0cm 0cm 1cm 1.2cm},
+        clip
+    ]
+    {FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p75_roughness_1mm.png}
+\end{column}
+
+% ------------------------------------------------------------
+% y = 1.40 m
+% ------------------------------------------------------------
+\begin{column}{0.33\textwidth}
+    \centering
+    \textbf{$y=1.40$ m}
+
+    \includegraphics[
+        width=\textwidth,
+        trim={0cm 0cm 1cm 1.2cm},
+        clip
+    ]
+    {FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_1p4_roughness_1mm.png}
+\end{column}
+
+\end{columns}
+
+\vspace{-0.05cm}
+
+\begin{block}{\scriptsize Impingement Assessment}
+The Eulerian and Lagrangian CHAMPS formulations predict nearly identical
+collection-efficiency distributions at all three spanwise stations, with
+consistent peak collection efficiencies and impingement extents.
 \end{block}
 
 \end{frame}

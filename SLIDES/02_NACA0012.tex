@@ -175,25 +175,6 @@ CHAMPS predictions are in good agreement with the experimental pressure distribu
 \begin{columns}[T,onlytextwidth]
 
 % ------------------------------------------------------------
-% Eulerian vs Lagrangian
-% ------------------------------------------------------------
-\begin{column}{0.50\textwidth}
-    \centering
-
-    \textbf{Eulerian vs. Lagrangian -- L1, 7 Bins}
-
-    \vspace{-0.05cm}
-
-    \includegraphics[
-        trim={0cm 0cm 1cm 2.6cm},
-        clip,
-        width=\textwidth
-    ]
-    {FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_L1_beta_bins07_vs_s_slice_0p9144_all_roughness.png}
-
-\end{column}
-
-% ------------------------------------------------------------
 % Droplet-Bin Refinement
 % ------------------------------------------------------------
 \begin{column}{0.50\textwidth}
@@ -212,14 +193,33 @@ CHAMPS predictions are in good agreement with the experimental pressure distribu
 
 \end{column}
 
+% ------------------------------------------------------------
+% Eulerian vs Lagrangian
+% ------------------------------------------------------------
+\begin{column}{0.50\textwidth}
+    \centering
+
+    \textbf{Eulerian vs. Lagrangian -- L1, 7 Bins}
+
+    \vspace{-0.05cm}
+
+    \includegraphics[
+        trim={0cm 0cm 1cm 2.6cm},
+        clip,
+        width=\textwidth
+    ]
+    {FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_L1_beta_bins07_vs_s_slice_0p9144_all_roughness.png}
+
+\end{column}
+
 \end{columns}
 
 \vspace{-0.15cm}
 
 \begin{block}{\scriptsize Impingement Assessment}
 \begin{itemize}
-    \item Close agreement between the CHAMPS Eulerian and Lagrangian formulations, with minor differences near peak collection efficiency.
     \item Droplet-bin refinement highly affects the peak collection efficiency and impingement limits.
+    \item Close agreement between the CHAMPS Eulerian and Lagrangian formulations, with minor differences near peak collection efficiency.
 \end{itemize}
 \end{block}
 
@@ -278,7 +278,7 @@ CHAMPS predictions are in good agreement with the experimental pressure distribu
 \begin{itemize}
     \item With the 15-bin distribution, CHAMPS predicts the AE3932 ice mass in very good agreement with the experimental value and exhibits limited sensitivity to spatial grid refinement.
     
-    \item CHAMPS captures the lower ice mass for AE3933, with a reduction of approximately $1.5$ g ($\sim1.5\%$) relative to AE3932, compared with the approximately $15\%$ reduction measured experimentally.
+    \item CHAMPS predicts a slightly lower ice mass for AE3933, with a reduction of approximately $1.5$ g ($\sim1.5\%$) relative to AE3932, compared with the approximately $15\%$ reduction measured experimentally.
     
     \item Approximately $88$--$90\%$ of the impinging water mass freezes into ice, with the remaining water mass lost through evaporation.
 \end{itemize}

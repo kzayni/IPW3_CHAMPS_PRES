@@ -11,13 +11,13 @@
 % Icing Framework
 % ------------------------------------------------------------
 
-\includegraphics[
-    width=0.88\textwidth,
-    height=2.25cm,
-    keepaspectratio
-]{FIGURES/LS_FRAMEWORK/icingFramework.png}
+% \includegraphics[
+%     width=0.88\textwidth,
+%     height=2.25cm,
+%     keepaspectratio
+% ]{FIGURES/LS_FRAMEWORK/icingFramework.png}
 
-\vspace{0.10cm}
+% \vspace{0.10cm}
 
 % ------------------------------------------------------------
 % Modeling Configuration
@@ -52,7 +52,7 @@ Droplet Model &
 \hline
 
 Droplet Drag Model &
-\multicolumn{2}{c|}{Deformable Sphere} \\
+\multicolumn{2}{c|}{Deformable Sphere \cite{clift2005bubbles}} \\
 \hline
 
 SLD Corrections &
@@ -91,7 +91,7 @@ Accretion Strategy &
 
 \begin{flushleft}
 \tiny
-\textbf{*} Flow equations use Roe convective fluxes with the
+\textbf{\textcolor{red}{*}} Flow equations use Roe convective fluxes with the
 Venkatakrishnan limiter; Eulerian droplet equations use an upwind
 scheme with the Van Albada limiter. Lagrangian simulations were
 performed to verify the Eulerian collection-efficiency predictions.

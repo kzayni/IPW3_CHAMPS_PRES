@@ -1,5 +1,10 @@
 \begin{thebibliography}{1}
 
+\bibitem{clift2005bubbles}
+Roland Clift, John~R Grace, and Martin~E Weber.
+\newblock {\em Bubbles, drops, and particles}, page 157–190.
+\newblock WORLD SCIENTIFIC, April 2006.
+
 \bibitem{dapogny2014mmg}
 Charles Dapogny, C{\'e}cile Dobrzynski, and Pascal Frey.
 \newblock Three-dimensional adaptive domain remeshing, implicit domain meshing, and applications to free and moving boundary problems.

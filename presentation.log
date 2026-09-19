@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  16 SEP 2026 23:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  19 SEP 2026 00:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1413,48 +1413,42 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 130
 <FIGURES/CHAMPS_APPLICATIONS/DETERMINSTIC_ICING.png, id=111, 1446.40375pt x 1285.80376pt>
 File: FIGURES/CHAMPS_APPLICATIONS/DETERMINSTIC_ICING.png Graphic file (type png)
 <use FIGURES/CHAMPS_APPLICATIONS/DETERMINSTIC_ICING.png>
-Package pdftex.def Info: FIGURES/CHAMPS_APPLICATIONS/DETERMINSTIC_ICING.png  used on input line 115.
+Package pdftex.def Info: FIGURES/CHAMPS_APPLICATIONS/DETERMINSTIC_ICING.png  used on input line 117.
 (pdftex.def)             Requested size: 71.99336pt x 63.99965pt.
-<FIGURES/CHAMPS_APPLICATIONS/STOCHASTIC_ICING.jpeg, id=112, 942.52126pt x 942.52126pt>
-File: FIGURES/CHAMPS_APPLICATIONS/STOCHASTIC_ICING.jpeg Graphic file (type jpg)
-<use FIGURES/CHAMPS_APPLICATIONS/STOCHASTIC_ICING.jpeg>
-Package pdftex.def Info: FIGURES/CHAMPS_APPLICATIONS/STOCHASTIC_ICING.jpeg  used on input line 115.
-(pdftex.def)             Requested size: 64.01292pt x 64.01292pt.
-<FIGURES/CHAMPS_APPLICATIONS/DDES.png, id=113, 566.115pt x 501.37312pt>
+<FIGURES/CHAMPS_APPLICATIONS/STOCHASTIC_ICING.png, id=112, 1027.84pt x 770.88pt>
+File: FIGURES/CHAMPS_APPLICATIONS/STOCHASTIC_ICING.png Graphic file (type png)
+<use FIGURES/CHAMPS_APPLICATIONS/STOCHASTIC_ICING.png>
+Package pdftex.def Info: FIGURES/CHAMPS_APPLICATIONS/STOCHASTIC_ICING.png  used on input line 117.
+(pdftex.def)             Requested size: 92.15657pt x 64.01526pt.
+<FIGURES/CHAMPS_APPLICATIONS/DDES.png, id=114, 566.115pt x 501.37312pt>
 File: FIGURES/CHAMPS_APPLICATIONS/DDES.png Graphic file (type png)
 <use FIGURES/CHAMPS_APPLICATIONS/DDES.png>
-Package pdftex.def Info: FIGURES/CHAMPS_APPLICATIONS/DDES.png  used on input line 115.
+Package pdftex.def Info: FIGURES/CHAMPS_APPLICATIONS/DDES.png  used on input line 117.
 (pdftex.def)             Requested size: 72.28452pt x 64.01793pt.
-<FIGURES/CHAMPS_APPLICATIONS/FSI.jpeg, id=114, 1059.96pt x 942.52126pt>
+<FIGURES/CHAMPS_APPLICATIONS/FSI.jpeg, id=115, 1059.96pt x 942.52126pt>
 File: FIGURES/CHAMPS_APPLICATIONS/FSI.jpeg Graphic file (type jpg)
 <use FIGURES/CHAMPS_APPLICATIONS/FSI.jpeg>
-Package pdftex.def Info: FIGURES/CHAMPS_APPLICATIONS/FSI.jpeg  used on input line 115.
+Package pdftex.def Info: FIGURES/CHAMPS_APPLICATIONS/FSI.jpeg  used on input line 117.
 (pdftex.def)             Requested size: 71.98898pt x 64.01292pt.
-<FIGURES/CHAMPS_APPLICATIONS/MOTOR_EXIT.png, id=115, 2007.5pt x 681.54625pt>
+<FIGURES/CHAMPS_APPLICATIONS/MOTOR_EXIT.png, id=116, 2007.5pt x 681.54625pt>
 File: FIGURES/CHAMPS_APPLICATIONS/MOTOR_EXIT.png Graphic file (type png)
 <use FIGURES/CHAMPS_APPLICATIONS/MOTOR_EXIT.png>
-Package pdftex.def Info: FIGURES/CHAMPS_APPLICATIONS/MOTOR_EXIT.png  used on input line 115.
+Package pdftex.def Info: FIGURES/CHAMPS_APPLICATIONS/MOTOR_EXIT.png  used on input line 117.
 (pdftex.def)             Requested size: 159.22484pt x 54.06006pt.
-<FIGURES/CHAMPS_APPLICATIONS/VORTICITY_CRM.png, id=116, 1505.625pt x 763.85374pt>
+<FIGURES/CHAMPS_APPLICATIONS/VORTICITY_CRM.png, id=117, 1505.625pt x 763.85374pt>
 File: FIGURES/CHAMPS_APPLICATIONS/VORTICITY_CRM.png Graphic file (type png)
 <use FIGURES/CHAMPS_APPLICATIONS/VORTICITY_CRM.png>
-Package pdftex.def Info: FIGURES/CHAMPS_APPLICATIONS/VORTICITY_CRM.png  used on input line 115.
+Package pdftex.def Info: FIGURES/CHAMPS_APPLICATIONS/VORTICITY_CRM.png  used on input line 117.
 (pdftex.def)             Requested size: 106.5532pt x 54.06006pt.
 
 
 File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
 <use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 115.
+Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 117.
 (pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
 [3
 
- <./FIGURES/CHAMPS_APPLICATIONS/DETERMINSTIC_ICING.png (PNG copy)> <./FIGURES/CHAMPS_APPLICATIONS/STOCHASTIC_ICING.jpeg> <./FIGURES/CHAMPS_APPLICATIONS/DDES.png> <./FIGURES/CHAMPS_APPLICATIONS/FSI.jpeg> <./FIGURES/CHAMPS_APPLICATIONS/MOTOR_EXIT.png (PNG copy)> <./FIGURES/CHAMPS_APPLICATIONS/VORTICITY_CRM.png (PNG copy)>]) (./SLIDES/01_ICING_FRAMEWORK.tex
-<FIGURES/LS_FRAMEWORK/icingFramework.png, id=148, 1183.42125pt x 268.00125pt>
-File: FIGURES/LS_FRAMEWORK/icingFramework.png Graphic file (type png)
-<use FIGURES/LS_FRAMEWORK/icingFramework.png>
-Package pdftex.def Info: FIGURES/LS_FRAMEWORK/icingFramework.png  used on input line 100.
-(pdftex.def)             Requested size: 282.67259pt x 64.01491pt.
-
+ <./FIGURES/CHAMPS_APPLICATIONS/DETERMINSTIC_ICING.png (PNG copy)> <./FIGURES/CHAMPS_APPLICATIONS/DDES.png> <./FIGURES/CHAMPS_APPLICATIONS/FSI.jpeg> <./FIGURES/CHAMPS_APPLICATIONS/MOTOR_EXIT.png (PNG copy)> <./FIGURES/CHAMPS_APPLICATIONS/VORTICITY_CRM.png (PNG copy)> <./FIGURES/CHAMPS_APPLICATIONS/STOCHASTIC_ICING.png>]) (./SLIDES/01_ICING_FRAMEWORK.tex
 
 File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
 <use img_theme/polymtl-watermark.pdf>
@@ -1462,7 +1456,7 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 100
 (pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
 [4
 
- <./FIGURES/LS_FRAMEWORK/icingFramework.png>]
+]
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <7> not available
 (Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 202.
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
@@ -1476,12 +1470,12 @@ Package epstopdf Info: Source file: <FIGURES/LS_FRAMEWORK/ICE_AIR_INTERFACE.eps>
 (epstopdf)             Command: <repstopdf --outfile=FIGURES/LS_FRAMEWORK/ICE_AIR_INTERFACE-eps-converted-to.pdf FIGURES/LS_FRAMEWORK/ICE_AIR_INTERFACE.eps>
 (epstopdf)             \includegraphics on input line 202.
 Package epstopdf Info: Output file is already uptodate.
-<FIGURES/LS_FRAMEWORK/ICE_AIR_INTERFACE-eps-converted-to.pdf, id=186, 610.28pt x 356.33125pt>
+<FIGURES/LS_FRAMEWORK/ICE_AIR_INTERFACE-eps-converted-to.pdf, id=191, 610.28pt x 356.33125pt>
 File: FIGURES/LS_FRAMEWORK/ICE_AIR_INTERFACE-eps-converted-to.pdf Graphic file (type pdf)
 <use FIGURES/LS_FRAMEWORK/ICE_AIR_INTERFACE-eps-converted-to.pdf>
 Package pdftex.def Info: FIGURES/LS_FRAMEWORK/ICE_AIR_INTERFACE-eps-converted-to.pdf  used on input line 202.
 (pdftex.def)             Requested size: 129.13104pt x 75.39723pt.
-<FIGURES/LS_FRAMEWORK/CLIPPED_ICE_SHAPE_CASE_362_3.png, id=187, 995.72pt x 885.3075pt>
+<FIGURES/LS_FRAMEWORK/CLIPPED_ICE_SHAPE_CASE_362_3.png, id=192, 995.72pt x 885.3075pt>
 File: FIGURES/LS_FRAMEWORK/CLIPPED_ICE_SHAPE_CASE_362_3.png Graphic file (type png)
 <use FIGURES/LS_FRAMEWORK/CLIPPED_ICE_SHAPE_CASE_362_3.png>
 Package pdftex.def Info: FIGURES/LS_FRAMEWORK/CLIPPED_ICE_SHAPE_CASE_362_3.png  used on input line 202.
@@ -1507,17 +1501,17 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 14.
 [6
 
 ]
-<FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cl_vs_n_all_roughness.png, id=231, 1355.0625pt x 1003.75pt>
+<FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cl_vs_n_all_roughness.png, id=237, 1355.0625pt x 1003.75pt>
 File: FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cl_vs_n_all_roughness.png Graphic file (type png)
 <use FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cl_vs_n_all_roughness.png>
 Package pdftex.def Info: FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cl_vs_n_all_roughness.png  used on input line 111.
 (pdftex.def)             Requested size: 143.63133pt x 100.65797pt.
-<FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cd_vs_n_all_roughness.png, id=233, 1355.0625pt x 1003.75pt>
+<FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cd_vs_n_all_roughness.png, id=239, 1355.0625pt x 1003.75pt>
 File: FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cd_vs_n_all_roughness.png Graphic file (type png)
 <use FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cd_vs_n_all_roughness.png>
 Package pdftex.def Info: FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cd_vs_n_all_roughness.png  used on input line 111.
 (pdftex.def)             Requested size: 143.63133pt x 100.65797pt.
-<FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cmy_vs_n_all_roughness.png, id=235, 1355.0625pt x 1003.75pt>
+<FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cmy_vs_n_all_roughness.png, id=241, 1355.0625pt x 1003.75pt>
 File: FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cmy_vs_n_all_roughness.png Graphic file (type png)
 <use FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cmy_vs_n_all_roughness.png>
 Package pdftex.def Info: FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cmy_vs_n_all_roughness.png  used on input line 111.
@@ -1533,12 +1527,12 @@ LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10> not available
 [7
 
  <./FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cl_vs_n_all_roughness.png> <./FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cd_vs_n_all_roughness.png> <./FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_cmy_vs_n_all_roughness.png>]
-<FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_L1_cp_vs_x_slice_0p9144_all_roughness.png, id=273, 1355.0625pt x 1003.75pt>
+<FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_L1_cp_vs_x_slice_0p9144_all_roughness.png, id=278, 1355.0625pt x 1003.75pt>
 File: FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_L1_cp_vs_x_slice_0p9144_all_roughness.png Graphic file (type png)
 <use FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_L1_cp_vs_x_slice_0p9144_all_roughness.png>
 Package pdftex.def Info: FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_L1_cp_vs_x_slice_0p9144_all_roughness.png  used on input line 163.
 (pdftex.def)             Requested size: 217.62204pt x 150.64525pt.
-<FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_L1_cp_vs_s_slice_0p9144_all_roughness.png, id=275, 1355.0625pt x 1003.75pt>
+<FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_L1_cp_vs_s_slice_0p9144_all_roughness.png, id=280, 1355.0625pt x 1003.75pt>
 File: FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_L1_cp_vs_s_slice_0p9144_all_roughness.png Graphic file (type png)
 <use FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_L1_cp_vs_s_slice_0p9144_all_roughness.png>
 Package pdftex.def Info: FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_L1_cp_vs_s_slice_0p9144_all_roughness.png  used on input line 163.
@@ -1552,15 +1546,15 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 163
 [8
 
  <./FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_L1_cp_vs_x_slice_0p9144_all_roughness.png> <./FIGURES/NACA0012/AERODYNAMIC/tc_naca0012_ae3932_L1_cp_vs_s_slice_0p9144_all_roughness.png>]
-<FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_L1_beta_bins07_vs_s_slice_0p9144_all_roughness.png, id=309, 1355.0625pt x 1003.75pt>
-File: FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_L1_beta_bins07_vs_s_slice_0p9144_all_roughness.png Graphic file (type png)
-<use FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_L1_beta_bins07_vs_s_slice_0p9144_all_roughness.png>
-Package pdftex.def Info: FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_L1_beta_bins07_vs_s_slice_0p9144_all_roughness.png  used on input line 226.
-(pdftex.def)             Requested size: 217.62204pt x 152.51207pt.
-<FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_beta_bins07_vs_s_slice_0p9144_all_roughness_eulerian_grid_levels.png, id=311, 1355.0625pt x 1003.75pt>
+<FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_beta_bins07_vs_s_slice_0p9144_all_roughness_eulerian_grid_levels.png, id=314, 1355.0625pt x 1003.75pt>
 File: FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_beta_bins07_vs_s_slice_0p9144_all_roughness_eulerian_grid_levels.png Graphic file (type png)
 <use FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_beta_bins07_vs_s_slice_0p9144_all_roughness_eulerian_grid_levels.png>
 Package pdftex.def Info: FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_beta_bins07_vs_s_slice_0p9144_all_roughness_eulerian_grid_levels.png  used on input line 226.
+(pdftex.def)             Requested size: 217.62204pt x 152.51207pt.
+<FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_L1_beta_bins07_vs_s_slice_0p9144_all_roughness.png, id=316, 1355.0625pt x 1003.75pt>
+File: FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_L1_beta_bins07_vs_s_slice_0p9144_all_roughness.png Graphic file (type png)
+<use FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_L1_beta_bins07_vs_s_slice_0p9144_all_roughness.png>
+Package pdftex.def Info: FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_L1_beta_bins07_vs_s_slice_0p9144_all_roughness.png  used on input line 226.
 (pdftex.def)             Requested size: 217.62204pt x 152.51207pt.
 
 
@@ -1570,13 +1564,13 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 226
 (pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
 [9
 
- <./FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_L1_beta_bins07_vs_s_slice_0p9144_all_roughness.png> <./FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_beta_bins07_vs_s_slice_0p9144_all_roughness_eulerian_grid_levels.png>]
-<FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3932_ice_mass_vs_n_unspecified_bins15_all_grid_levels.png, id=345, 1355.0625pt x 1003.75pt>
+ <./FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_beta_bins07_vs_s_slice_0p9144_all_roughness_eulerian_grid_levels.png> <./FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_L1_beta_bins07_vs_s_slice_0p9144_all_roughness.png>]
+<FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3932_ice_mass_vs_n_unspecified_bins15_all_grid_levels.png, id=350, 1355.0625pt x 1003.75pt>
 File: FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3932_ice_mass_vs_n_unspecified_bins15_all_grid_levels.png Graphic file (type png)
 <use FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3932_ice_mass_vs_n_unspecified_bins15_all_grid_levels.png>
 Package pdftex.def Info: FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3932_ice_mass_vs_n_unspecified_bins15_all_grid_levels.png  used on input line 287.
 (pdftex.def)             Requested size: 187.15176pt x 138.38515pt.
-<FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3933_ice_mass_vs_n_unspecified_bins15_all_grid_levels.png, id=347, 1355.0625pt x 1003.75pt>
+<FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3933_ice_mass_vs_n_unspecified_bins15_all_grid_levels.png, id=352, 1355.0625pt x 1003.75pt>
 File: FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3933_ice_mass_vs_n_unspecified_bins15_all_grid_levels.png Graphic file (type png)
 <use FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3933_ice_mass_vs_n_unspecified_bins15_all_grid_levels.png>
 Package pdftex.def Info: FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3933_ice_mass_vs_n_unspecified_bins15_all_grid_levels.png  used on input line 287.
@@ -1594,12 +1588,12 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 287
 [10
 
  <./FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3932_ice_mass_vs_n_unspecified_bins15_all_grid_levels.png> <./FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3933_ice_mass_vs_n_unspecified_bins15_all_grid_levels.png>]
-<FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_single_layer_ice_shape_slice_0p9144_bins15.png, id=381, 1355.0625pt x 764.8575pt>
+<FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_single_layer_ice_shape_slice_0p9144_bins15.png, id=386, 1355.0625pt x 764.8575pt>
 File: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_single_layer_ice_shape_slice_0p9144_bins15.png Graphic file (type png)
 <use FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_single_layer_ice_shape_slice_0p9144_bins15.png>
 Package pdftex.def Info: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_single_layer_ice_shape_slice_0p9144_bins15.png  used on input line 343.
 (pdftex.def)             Requested size: 217.62204pt x 119.17928pt.
-<FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_single_layer_ice_shape_slice_0p9144_bins15.png, id=383, 1355.0625pt x 763.85374pt>
+<FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_single_layer_ice_shape_slice_0p9144_bins15.png, id=388, 1355.0625pt x 763.85374pt>
 File: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_single_layer_ice_shape_slice_0p9144_bins15.png Graphic file (type png)
 <use FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_single_layer_ice_shape_slice_0p9144_bins15.png>
 Package pdftex.def Info: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_single_layer_ice_shape_slice_0p9144_bins15.png  used on input line 343.
@@ -1613,12 +1607,12 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 343
 [11
 
  <./FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_single_layer_ice_shape_slice_0p9144_bins15.png> <./FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_single_layer_ice_shape_slice_0p9144_bins15.png>]
-<FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3932.png, id=417, 1446.40375pt x 1285.80376pt>
+<FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3932.png, id=422, 1446.40375pt x 1285.80376pt>
 File: FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3932.png Graphic file (type png)
 <use FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3932.png>
 Package pdftex.def Info: FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3932.png  used on input line 392.
 (pdftex.def)             Requested size: 174.09497pt x 154.76067pt.
-<FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3933.png, id=418, 1446.40375pt x 1285.80376pt>
+<FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3933.png, id=423, 1446.40375pt x 1285.80376pt>
 File: FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3933.png Graphic file (type png)
 <use FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3933.png>
 Package pdftex.def Info: FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3933.png  used on input line 392.
@@ -1636,12 +1630,12 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 392
 [12
 
  <./FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3932.png (PNG copy)> <./FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3933.png (PNG copy)>]
-<FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparison.png, id=448, 1355.0625pt x 764.8575pt>
+<FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparison.png, id=453, 1355.0625pt x 764.8575pt>
 File: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparison.png Graphic file (type png)
 <use FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparison.png>
 Package pdftex.def Info: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparison.png  used on input line 450.
 (pdftex.def)             Requested size: 217.62204pt x 121.72705pt.
-<FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparison.png, id=450, 1355.0625pt x 763.85374pt>
+<FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparison.png, id=455, 1355.0625pt x 763.85374pt>
 File: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparison.png Graphic file (type png)
 <use FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparison.png>
 Package pdftex.def Info: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparison.png  used on input line 450.
@@ -1663,17 +1657,17 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 14.
 [14
 
 ]
-<FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cl_vs_n_1mm.png, id=492, 1355.0625pt x 1003.75pt>
+<FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cl_vs_n_1mm.png, id=497, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cl_vs_n_1mm.png Graphic file (type png)
 <use FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cl_vs_n_1mm.png>
 Package pdftex.def Info: FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cl_vs_n_1mm.png  used on input line 113.
 (pdftex.def)             Requested size: 143.63133pt x 97.57765pt.
-<FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cd_vs_n_1mm.png, id=494, 1355.0625pt x 1003.75pt>
+<FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cd_vs_n_1mm.png, id=499, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cd_vs_n_1mm.png Graphic file (type png)
 <use FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cd_vs_n_1mm.png>
 Package pdftex.def Info: FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cd_vs_n_1mm.png  used on input line 113.
 (pdftex.def)             Requested size: 143.63133pt x 97.57765pt.
-<FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cmy_vs_n_1mm.png, id=496, 1355.0625pt x 1003.75pt>
+<FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cmy_vs_n_1mm.png, id=501, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cmy_vs_n_1mm.png Graphic file (type png)
 <use FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cmy_vs_n_1mm.png>
 Package pdftex.def Info: FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cmy_vs_n_1mm.png  used on input line 113.
@@ -1687,17 +1681,17 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 113
 [15
 
  <./FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cl_vs_n_1mm.png> <./FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cd_vs_n_1mm.png> <./FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_cmy_vs_n_1mm.png>]
-<FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_0p1_roughness_1mm.png, id=532, 1355.0625pt x 1003.75pt>
+<FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_0p1_roughness_1mm.png, id=537, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_0p1_roughness_1mm.png Graphic file (type png)
 <use FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_0p1_roughness_1mm.png>
 Package pdftex.def Info: FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_0p1_roughness_1mm.png  used on input line 179.
 (pdftex.def)             Requested size: 143.63133pt x 104.97044pt.
-<FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_0p75_roughness_1mm.png, id=534, 1355.0625pt x 1003.75pt>
+<FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_0p75_roughness_1mm.png, id=539, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_0p75_roughness_1mm.png Graphic file (type png)
 <use FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_0p75_roughness_1mm.png>
 Package pdftex.def Info: FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_0p75_roughness_1mm.png  used on input line 179.
 (pdftex.def)             Requested size: 143.63133pt x 104.97044pt.
-<FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_1p4_roughness_1mm.png, id=536, 1355.0625pt x 1003.75pt>
+<FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_1p4_roughness_1mm.png, id=541, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_1p4_roughness_1mm.png Graphic file (type png)
 <use FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_1p4_roughness_1mm.png>
 Package pdftex.def Info: FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_1p4_roughness_1mm.png  used on input line 179.
@@ -1711,44 +1705,44 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 179
 [16
 
  <./FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_0p1_roughness_1mm.png> <./FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_0p75_roughness_1mm.png> <./FIGURES/ONERAM6/AERODYNAMIC/tc_oneram6_L1_cp_vs_x_slice_1p4_roughness_1mm.png>]
-<FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p1_roughness_1mm.png, id=569, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p1_roughness_1mm.png Graphic file (type png)
-<use FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p1_roughness_1mm.png>
-Package pdftex.def Info: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p1_roughness_1mm.png  used on input line 247.
+<FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p1_roughness_1mm.png, id=574, 1355.0625pt x 1003.75pt>
+File: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p1_roughness_1mm.png Graphic file (type png)
+<use FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p1_roughness_1mm.png>
+Package pdftex.def Info: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p1_roughness_1mm.png  used on input line 250.
 (pdftex.def)             Requested size: 143.63133pt x 104.97044pt.
-<FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p75_roughness_1mm.png, id=571, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p75_roughness_1mm.png Graphic file (type png)
-<use FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p75_roughness_1mm.png>
-Package pdftex.def Info: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p75_roughness_1mm.png  used on input line 247.
+<FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p75_roughness_1mm.png, id=576, 1355.0625pt x 1003.75pt>
+File: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p75_roughness_1mm.png Graphic file (type png)
+<use FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p75_roughness_1mm.png>
+Package pdftex.def Info: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p75_roughness_1mm.png  used on input line 250.
 (pdftex.def)             Requested size: 143.63133pt x 104.97044pt.
-<FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_1p4_roughness_1mm.png, id=573, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_1p4_roughness_1mm.png Graphic file (type png)
-<use FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_1p4_roughness_1mm.png>
-Package pdftex.def Info: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_1p4_roughness_1mm.png  used on input line 247.
+<FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_1p4_roughness_1mm.png, id=578, 1355.0625pt x 1003.75pt>
+File: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_1p4_roughness_1mm.png Graphic file (type png)
+<use FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_1p4_roughness_1mm.png>
+Package pdftex.def Info: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_1p4_roughness_1mm.png  used on input line 250.
 (pdftex.def)             Requested size: 143.63133pt x 104.97044pt.
 
 
 File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
 <use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 247.
+Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 250.
 (pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
 [17
 
- <./FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p1_roughness_1mm.png> <./FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p75_roughness_1mm.png> <./FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_1p4_roughness_1mm.png>]
-<FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p1_roughness_1mm.png, id=606, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p1_roughness_1mm.png Graphic file (type png)
-<use FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p1_roughness_1mm.png>
-Package pdftex.def Info: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p1_roughness_1mm.png  used on input line 318.
+ <./FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p1_roughness_1mm.png> <./FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p75_roughness_1mm.png> <./FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_1p4_roughness_1mm.png>]
+<FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p1_roughness_1mm.png, id=614, 1355.0625pt x 1003.75pt>
+File: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p1_roughness_1mm.png Graphic file (type png)
+<use FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p1_roughness_1mm.png>
+Package pdftex.def Info: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p1_roughness_1mm.png  used on input line 318.
 (pdftex.def)             Requested size: 143.63133pt x 104.97044pt.
-<FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p75_roughness_1mm.png, id=608, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p75_roughness_1mm.png Graphic file (type png)
-<use FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p75_roughness_1mm.png>
-Package pdftex.def Info: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p75_roughness_1mm.png  used on input line 318.
+<FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p75_roughness_1mm.png, id=616, 1355.0625pt x 1003.75pt>
+File: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p75_roughness_1mm.png Graphic file (type png)
+<use FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p75_roughness_1mm.png>
+Package pdftex.def Info: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p75_roughness_1mm.png  used on input line 318.
 (pdftex.def)             Requested size: 143.63133pt x 104.97044pt.
-<FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_1p4_roughness_1mm.png, id=610, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_1p4_roughness_1mm.png Graphic file (type png)
-<use FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_1p4_roughness_1mm.png>
-Package pdftex.def Info: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_1p4_roughness_1mm.png  used on input line 318.
+<FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_1p4_roughness_1mm.png, id=618, 1355.0625pt x 1003.75pt>
+File: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_1p4_roughness_1mm.png Graphic file (type png)
+<use FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_1p4_roughness_1mm.png>
+Package pdftex.def Info: FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_1p4_roughness_1mm.png  used on input line 318.
 (pdftex.def)             Requested size: 143.63133pt x 104.97044pt.
 
 
@@ -1758,13 +1752,13 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 318
 (pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
 [18
 
- <./FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p1_roughness_1mm.png> <./FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_0p75_roughness_1mm.png> <./FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_all_bins_vs_s_slice_1p4_roughness_1mm.png>]
-<FIGURES/ONERAM6/ICE_ACCRETION/tc_oneram6_ice_mass_vs_n_1mm_bins15_all_grid_levels.png, id=647, 1355.0625pt x 1003.75pt>
+ <./FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p1_roughness_1mm.png> <./FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_0p75_roughness_1mm.png> <./FIGURES/ONERAM6/IMPINGEMENT/tc_oneram6_L1_beta_bins01_vs_s_slice_1p4_roughness_1mm.png>]
+<FIGURES/ONERAM6/ICE_ACCRETION/tc_oneram6_ice_mass_vs_n_1mm_bins15_all_grid_levels.png, id=652, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/ICE_ACCRETION/tc_oneram6_ice_mass_vs_n_1mm_bins15_all_grid_levels.png Graphic file (type png)
 <use FIGURES/ONERAM6/ICE_ACCRETION/tc_oneram6_ice_mass_vs_n_1mm_bins15_all_grid_levels.png>
 Package pdftex.def Info: FIGURES/ONERAM6/ICE_ACCRETION/tc_oneram6_ice_mass_vs_n_1mm_bins15_all_grid_levels.png  used on input line 372.
 (pdftex.def)             Requested size: 217.62204pt x 152.97556pt.
-<FIGURES/ONERAM6/ICE_ACCRETION/tc_oneram6_ice_mass_vs_n_1mm_l1_vs_inverse_bins.png, id=649, 1355.0625pt x 1003.75pt>
+<FIGURES/ONERAM6/ICE_ACCRETION/tc_oneram6_ice_mass_vs_n_1mm_l1_vs_inverse_bins.png, id=654, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/ICE_ACCRETION/tc_oneram6_ice_mass_vs_n_1mm_l1_vs_inverse_bins.png Graphic file (type png)
 <use FIGURES/ONERAM6/ICE_ACCRETION/tc_oneram6_ice_mass_vs_n_1mm_l1_vs_inverse_bins.png>
 Package pdftex.def Info: FIGURES/ONERAM6/ICE_ACCRETION/tc_oneram6_ice_mass_vs_n_1mm_l1_vs_inverse_bins.png  used on input line 372.
@@ -1778,17 +1772,17 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 372
 [19
 
  <./FIGURES/ONERAM6/ICE_ACCRETION/tc_oneram6_ice_mass_vs_n_1mm_bins15_all_grid_levels.png> <./FIGURES/ONERAM6/ICE_ACCRETION/tc_oneram6_ice_mass_vs_n_1mm_l1_vs_inverse_bins.png>]
-<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p1_bins07_roughness_1mm.png, id=681, 1355.0625pt x 1003.75pt>
+<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p1_bins07_roughness_1mm.png, id=686, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p1_bins07_roughness_1mm.png Graphic file (type png)
 <use FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p1_bins07_roughness_1mm.png>
 Package pdftex.def Info: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p1_bins07_roughness_1mm.png  used on input line 442.
 (pdftex.def)             Requested size: 144.93303pt x 102.48085pt.
-<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p75_bins07_roughness_1mm.png, id=683, 1355.0625pt x 1003.75pt>
+<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p75_bins07_roughness_1mm.png, id=688, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p75_bins07_roughness_1mm.png Graphic file (type png)
 <use FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p75_bins07_roughness_1mm.png>
 Package pdftex.def Info: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p75_bins07_roughness_1mm.png  used on input line 442.
 (pdftex.def)             Requested size: 144.93303pt x 102.48085pt.
-<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_1p4_bins07_roughness_1mm.png, id=685, 1355.0625pt x 1003.75pt>
+<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_1p4_bins07_roughness_1mm.png, id=690, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_1p4_bins07_roughness_1mm.png Graphic file (type png)
 <use FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_1p4_bins07_roughness_1mm.png>
 Package pdftex.def Info: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_1p4_bins07_roughness_1mm.png  used on input line 442.
@@ -1802,7 +1796,7 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 442
 [20
 
  <./FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p1_bins07_roughness_1mm.png> <./FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p75_bins07_roughness_1mm.png> <./FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_1p4_bins07_roughness_1mm.png>]
-<FIGURES/ONERAM6/ICE_VIEWS/ONERAM6.png, id=721, 1446.40375pt x 1285.80376pt>
+<FIGURES/ONERAM6/ICE_VIEWS/ONERAM6.png, id=726, 1446.40375pt x 1285.80376pt>
 File: FIGURES/ONERAM6/ICE_VIEWS/ONERAM6.png Graphic file (type png)
 <use FIGURES/ONERAM6/ICE_VIEWS/ONERAM6.png>
 Package pdftex.def Info: FIGURES/ONERAM6/ICE_VIEWS/ONERAM6.png  used on input line 467.
@@ -1816,17 +1810,17 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 467
 [21
 
  <./FIGURES/ONERAM6/ICE_VIEWS/ONERAM6.png (PNG copy)>]
-<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_0p1_bins07_roughness_1mm.png, id=749, 1355.0625pt x 1003.75pt>
+<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_0p1_bins07_roughness_1mm.png, id=754, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_0p1_bins07_roughness_1mm.png Graphic file (type png)
 <use FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_0p1_bins07_roughness_1mm.png>
 Package pdftex.def Info: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_0p1_bins07_roughness_1mm.png  used on input line 537.
 (pdftex.def)             Requested size: 143.63133pt x 100.95659pt.
-<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_0p75_bins07_roughness_1mm.png, id=751, 1355.0625pt x 1003.75pt>
+<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_0p75_bins07_roughness_1mm.png, id=756, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_0p75_bins07_roughness_1mm.png Graphic file (type png)
 <use FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_0p75_bins07_roughness_1mm.png>
 Package pdftex.def Info: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_0p75_bins07_roughness_1mm.png  used on input line 537.
 (pdftex.def)             Requested size: 143.63133pt x 100.95659pt.
-<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_1p4_bins07_roughness_1mm.png, id=753, 1355.0625pt x 1003.75pt>
+<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_1p4_bins07_roughness_1mm.png, id=758, 1355.0625pt x 1003.75pt>
 File: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_1p4_bins07_roughness_1mm.png Graphic file (type png)
 <use FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_1p4_bins07_roughness_1mm.png>
 Package pdftex.def Info: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_multilayer_ice_shape_slice_1p4_bins07_roughness_1mm.png  used on input line 537.
@@ -1855,356 +1849,22 @@ Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 63.
 (pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
 [24
 
-]) (./SLIDES/05_BACKUP.tex
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 12.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[25
-
-]
-<FIGURES/NACA0012/HTC/tc_naca0012_ae3932_L1_htc_vs_s_slice_0p9144_all_roughness.png, id=865, 1355.0625pt x 1003.75pt>
-File: FIGURES/NACA0012/HTC/tc_naca0012_ae3932_L1_htc_vs_s_slice_0p9144_all_roughness.png Graphic file (type png)
-<use FIGURES/NACA0012/HTC/tc_naca0012_ae3932_L1_htc_vs_s_slice_0p9144_all_roughness.png>
-Package pdftex.def Info: FIGURES/NACA0012/HTC/tc_naca0012_ae3932_L1_htc_vs_s_slice_0p9144_all_roughness.png  used on input line 60.
-(pdftex.def)             Requested size: 217.62204pt x 152.51207pt.
-<FIGURES/NACA0012/HTC/tc_naca0012_ae3933_L1_htc_vs_s_slice_0p9144_all_roughness.png, id=867, 1355.0625pt x 1003.75pt>
-File: FIGURES/NACA0012/HTC/tc_naca0012_ae3933_L1_htc_vs_s_slice_0p9144_all_roughness.png Graphic file (type png)
-<use FIGURES/NACA0012/HTC/tc_naca0012_ae3933_L1_htc_vs_s_slice_0p9144_all_roughness.png>
-Package pdftex.def Info: FIGURES/NACA0012/HTC/tc_naca0012_ae3933_L1_htc_vs_s_slice_0p9144_all_roughness.png  used on input line 60.
-(pdftex.def)             Requested size: 217.62204pt x 152.51207pt.
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 60.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[26
-
- <./FIGURES/NACA0012/HTC/tc_naca0012_ae3932_L1_htc_vs_s_slice_0p9144_all_roughness.png> <./FIGURES/NACA0012/HTC/tc_naca0012_ae3933_L1_htc_vs_s_slice_0p9144_all_roughness.png>]
-<FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3932_L1_freezing_fraction_vs_s_slice_0p9144_all_roughness.png, id=889, 1355.0625pt x 1003.75pt>
-File: FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3932_L1_freezing_fraction_vs_s_slice_0p9144_all_roughness.png Graphic file (type png)
-<use FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3932_L1_freezing_fraction_vs_s_slice_0p9144_all_roughness.png>
-Package pdftex.def Info: FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3932_L1_freezing_fraction_vs_s_slice_0p9144_all_roughness.png  used on input line 105.
-(pdftex.def)             Requested size: 217.62204pt x 152.97556pt.
-<FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3933_L1_freezing_fraction_vs_s_slice_0p9144_all_roughness.png, id=891, 1355.0625pt x 1003.75pt>
-File: FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3933_L1_freezing_fraction_vs_s_slice_0p9144_all_roughness.png Graphic file (type png)
-<use FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3933_L1_freezing_fraction_vs_s_slice_0p9144_all_roughness.png>
-Package pdftex.def Info: FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3933_L1_freezing_fraction_vs_s_slice_0p9144_all_roughness.png  used on input line 105.
-(pdftex.def)             Requested size: 217.62204pt x 152.97556pt.
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 105.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[27
-
- <./FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3932_L1_freezing_fraction_vs_s_slice_0p9144_all_roughness.png> <./FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3933_L1_freezing_fraction_vs_s_slice_0p9144_all_roughness.png>]
-<FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3932_L1_surface_temperature_vs_s_slice_0p9144_all_roughness.png, id=913, 1355.0625pt x 1003.75pt>
-File: FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3932_L1_surface_temperature_vs_s_slice_0p9144_all_roughness.png Graphic file (type png)
-<use FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3932_L1_surface_temperature_vs_s_slice_0p9144_all_roughness.png>
-Package pdftex.def Info: FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3932_L1_surface_temperature_vs_s_slice_0p9144_all_roughness.png  used on input line 151.
-(pdftex.def)             Requested size: 217.62204pt x 152.97556pt.
-<FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3933_L1_surface_temperature_vs_s_slice_0p9144_all_roughness.png, id=915, 1355.0625pt x 1003.75pt>
-File: FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3933_L1_surface_temperature_vs_s_slice_0p9144_all_roughness.png Graphic file (type png)
-<use FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3933_L1_surface_temperature_vs_s_slice_0p9144_all_roughness.png>
-Package pdftex.def Info: FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3933_L1_surface_temperature_vs_s_slice_0p9144_all_roughness.png  used on input line 151.
-(pdftex.def)             Requested size: 217.62204pt x 152.97556pt.
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 151.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[28
-
- <./FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3932_L1_surface_temperature_vs_s_slice_0p9144_all_roughness.png> <./FIGURES/NACA0012/SURF_TEMP_FF/tc_naca0012_ae3933_L1_surface_temperature_vs_s_slice_0p9144_all_roughness.png>]
-<FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3932_upper_horn_angle_bins15.png, id=937, 1355.0625pt x 1003.75pt>
-File: FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3932_upper_horn_angle_bins15.png Graphic file (type png)
-<use FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3932_upper_horn_angle_bins15.png>
-Package pdftex.def Info: FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3932_upper_horn_angle_bins15.png  used on input line 207.
-(pdftex.def)             Requested size: 217.62204pt x 147.84492pt.
-<FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3933_upper_horn_angle_bins15.png, id=939, 1355.0625pt x 1003.75pt>
-File: FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3933_upper_horn_angle_bins15.png Graphic file (type png)
-<use FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3933_upper_horn_angle_bins15.png>
-Package pdftex.def Info: FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3933_upper_horn_angle_bins15.png  used on input line 207.
-(pdftex.def)             Requested size: 217.62204pt x 147.84492pt.
-
-Overfull \vbox (0.79721pt too high) detected at line 207
- []
-
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 207.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[29
-
- <./FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3932_upper_horn_angle_bins15.png> <./FIGURES/NACA0012/ICE_ACCRETION/tc_naca0012_ae3933_upper_horn_angle_bins15.png>]
-<FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparisons_MCCS.png, id=970, 1355.0625pt x 764.8575pt>
-File: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparisons_MCCS.png Graphic file (type png)
-<use FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparisons_MCCS.png>
-Package pdftex.def Info: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparisons_MCCS.png  used on input line 254.
-(pdftex.def)             Requested size: 217.62204pt x 121.72705pt.
-<FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparisons_MCCS.png, id=972, 1355.0625pt x 763.85374pt>
-File: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparisons_MCCS.png Graphic file (type png)
-<use FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparisons_MCCS.png>
-Package pdftex.def Info: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparisons_MCCS.png  used on input line 254.
-(pdftex.def)             Requested size: 217.62204pt x 121.5624pt.
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 254.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[30
-
- <./FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparisons_MCCS.png> <./FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_multilayer_ice_shape_slice_0p9144_bins07_roughness_comparisons_MCCS.png>]
-<FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_single_layer_ice_shape_slice_0p9144_bins15_normals_comparison.png, id=994, 1355.0625pt x 764.8575pt>
-File: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_single_layer_ice_shape_slice_0p9144_bins15_normals_comparison.png Graphic file (type png)
-<use FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_single_layer_ice_shape_slice_0p9144_bins15_normals_comparison.png>
-Package pdftex.def Info: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_single_layer_ice_shape_slice_0p9144_bins15_normals_comparison.png  used on input line 311.
-(pdftex.def)             Requested size: 217.62204pt x 119.17928pt.
-<FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_single_layer_ice_shape_slice_0p9144_bins15_normals_comparison.png, id=996, 1355.0625pt x 763.85374pt>
-File: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_single_layer_ice_shape_slice_0p9144_bins15_normals_comparison.png Graphic file (type png)
-<use FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_single_layer_ice_shape_slice_0p9144_bins15_normals_comparison.png>
-Package pdftex.def Info: FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_single_layer_ice_shape_slice_0p9144_bins15_normals_comparison.png  used on input line 311.
-(pdftex.def)             Requested size: 217.62204pt x 119.01807pt.
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 311.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[31
-
- <./FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3932_L1_single_layer_ice_shape_slice_0p9144_bins15_normals_comparison.png> <./FIGURES/NACA0012/ICE_SHAPES/tc_naca0012_ae3933_L1_single_layer_ice_shape_slice_0p9144_bins15_normals_comparison.png>]
-<FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_0p1_roughness_1mm.png, id=1028, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_0p1_roughness_1mm.png Graphic file (type png)
-<use FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_0p1_roughness_1mm.png>
-Package pdftex.def Info: FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_0p1_roughness_1mm.png  used on input line 373.
-(pdftex.def)             Requested size: 143.63133pt x 98.8098pt.
-<FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_0p75_roughness_1mm.png, id=1030, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_0p75_roughness_1mm.png Graphic file (type png)
-<use FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_0p75_roughness_1mm.png>
-Package pdftex.def Info: FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_0p75_roughness_1mm.png  used on input line 373.
-(pdftex.def)             Requested size: 143.63133pt x 98.8098pt.
-<FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_1p4_roughness_1mm.png, id=1032, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_1p4_roughness_1mm.png Graphic file (type png)
-<use FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_1p4_roughness_1mm.png>
-Package pdftex.def Info: FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_1p4_roughness_1mm.png  used on input line 373.
-(pdftex.def)             Requested size: 143.63133pt x 98.8098pt.
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 373.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[32
-
- <./FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_0p1_roughness_1mm.png> <./FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_0p75_roughness_1mm.png> <./FIGURES/ONERAM6/HTC/tc_oneram6_L1_htc_vs_s_slice_1p4_roughness_1mm.png>]
-<FIGURES/ONERAM6/SURF_TEMP_FF/tc_oneram6_L1_surface_temperature_vs_s_slice_0p75_roughness_1mm.png, id=1057, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/SURF_TEMP_FF/tc_oneram6_L1_surface_temperature_vs_s_slice_0p75_roughness_1mm.png Graphic file (type png)
-<use FIGURES/ONERAM6/SURF_TEMP_FF/tc_oneram6_L1_surface_temperature_vs_s_slice_0p75_roughness_1mm.png>
-Package pdftex.def Info: FIGURES/ONERAM6/SURF_TEMP_FF/tc_oneram6_L1_surface_temperature_vs_s_slice_0p75_roughness_1mm.png  used on input line 418.
-(pdftex.def)             Requested size: 217.62204pt x 149.71182pt.
-<FIGURES/ONERAM6/SURF_TEMP_FF/tc_oneram6_L1_freezing_fraction_vs_s_slice_0p75_roughness_1mm.png, id=1059, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/SURF_TEMP_FF/tc_oneram6_L1_freezing_fraction_vs_s_slice_0p75_roughness_1mm.png Graphic file (type png)
-<use FIGURES/ONERAM6/SURF_TEMP_FF/tc_oneram6_L1_freezing_fraction_vs_s_slice_0p75_roughness_1mm.png>
-Package pdftex.def Info: FIGURES/ONERAM6/SURF_TEMP_FF/tc_oneram6_L1_freezing_fraction_vs_s_slice_0p75_roughness_1mm.png  used on input line 418.
-(pdftex.def)             Requested size: 217.62204pt x 149.71182pt.
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <9> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 418.
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 418.
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 418.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[33
-
- <./FIGURES/ONERAM6/SURF_TEMP_FF/tc_oneram6_L1_surface_temperature_vs_s_slice_0p75_roughness_1mm.png> <./FIGURES/ONERAM6/SURF_TEMP_FF/tc_oneram6_L1_freezing_fraction_vs_s_slice_0p75_roughness_1mm.png>]
-<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p1_bins15_normals_comparison.png, id=1083, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p1_bins15_normals_comparison.png Graphic file (type png)
-<use FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p1_bins15_normals_comparison.png>
-Package pdftex.def Info: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p1_bins15_normals_comparison.png  used on input line 478.
-(pdftex.def)             Requested size: 143.63133pt x 98.84566pt.
-<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p75_bins15_normals_comparison.png, id=1085, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p75_bins15_normals_comparison.png Graphic file (type png)
-<use FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p75_bins15_normals_comparison.png>
-Package pdftex.def Info: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p75_bins15_normals_comparison.png  used on input line 478.
-(pdftex.def)             Requested size: 143.63133pt x 98.84566pt.
-<FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_1p4_bins15_normals_comparison.png, id=1087, 1355.0625pt x 1003.75pt>
-File: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_1p4_bins15_normals_comparison.png Graphic file (type png)
-<use FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_1p4_bins15_normals_comparison.png>
-Package pdftex.def Info: FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_1p4_bins15_normals_comparison.png  used on input line 478.
-(pdftex.def)             Requested size: 143.63133pt x 98.84566pt.
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 478.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[34
-
- <./FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p1_bins15_normals_comparison.png> <./FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_0p75_bins15_normals_comparison.png> <./FIGURES/ONERAM6/ICE_SHAPES/tc_oneram6_L1_single_layer_ice_shape_slice_1p4_bins15_normals_comparison.png>]
-Package epstopdf Info: Source file: <FIGURES/LS_FRAMEWORK/LS_STEP_1.eps>
-(epstopdf)                    date: 2026-09-15 23:00:54
-(epstopdf)                    size: 519954 bytes
-(epstopdf)             Output file: <FIGURES/LS_FRAMEWORK/LS_STEP_1-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-09-16 00:21:48
-(epstopdf)                    size: 10795 bytes
-(epstopdf)             Command: <repstopdf --outfile=FIGURES/LS_FRAMEWORK/LS_STEP_1-eps-converted-to.pdf FIGURES/LS_FRAMEWORK/LS_STEP_1.eps>
-(epstopdf)             \includegraphics on input line 684.
-Package epstopdf Info: Output file is already uptodate.
-<FIGURES/LS_FRAMEWORK/LS_STEP_1-eps-converted-to.pdf, id=1111, 664.4825pt x 34.1275pt>
-File: FIGURES/LS_FRAMEWORK/LS_STEP_1-eps-converted-to.pdf Graphic file (type pdf)
-<use FIGURES/LS_FRAMEWORK/LS_STEP_1-eps-converted-to.pdf>
-Package pdftex.def Info: FIGURES/LS_FRAMEWORK/LS_STEP_1-eps-converted-to.pdf  used on input line 684.
-(pdftex.def)             Requested size: 413.48055pt x 21.2364pt.
-<FIGURES/LS_FRAMEWORK/MESH_ADAPTATION.png, id=1121, 995.72pt x 885.3075pt>
-File: FIGURES/LS_FRAMEWORK/MESH_ADAPTATION.png Graphic file (type png)
-<use FIGURES/LS_FRAMEWORK/MESH_ADAPTATION.png>
-Package pdftex.def Info: FIGURES/LS_FRAMEWORK/MESH_ADAPTATION.png  used on input line 684.
-(pdftex.def)             Requested size: 174.09497pt x 152.42432pt.
-
-Overfull \vbox (20.93437pt too high) detected at line 684
- []
-
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 684.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[35
-
- <./FIGURES/LS_FRAMEWORK/LS_STEP_1-eps-converted-to.pdf> <./FIGURES/LS_FRAMEWORK/MESH_ADAPTATION.png (PNG copy)>]
-Package epstopdf Info: Source file: <FIGURES/LS_FRAMEWORK/LS_STEP_2.eps>
-(epstopdf)                    date: 2026-09-15 23:00:54
-(epstopdf)                    size: 518490 bytes
-(epstopdf)             Output file: <FIGURES/LS_FRAMEWORK/LS_STEP_2-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-09-16 00:21:48
-(epstopdf)                    size: 10802 bytes
-(epstopdf)             Command: <repstopdf --outfile=FIGURES/LS_FRAMEWORK/LS_STEP_2-eps-converted-to.pdf FIGURES/LS_FRAMEWORK/LS_STEP_2.eps>
-(epstopdf)             \includegraphics on input line 684.
-Package epstopdf Info: Output file is already uptodate.
-<FIGURES/LS_FRAMEWORK/LS_STEP_2-eps-converted-to.pdf, id=1143, 664.4825pt x 34.1275pt>
-File: FIGURES/LS_FRAMEWORK/LS_STEP_2-eps-converted-to.pdf Graphic file (type pdf)
-<use FIGURES/LS_FRAMEWORK/LS_STEP_2-eps-converted-to.pdf>
-Package pdftex.def Info: FIGURES/LS_FRAMEWORK/LS_STEP_2-eps-converted-to.pdf  used on input line 684.
-(pdftex.def)             Requested size: 413.48055pt x 21.2364pt.
-<FIGURES/LS_FRAMEWORK/EIKONAL.png, id=1153, 1446.40375pt x 1285.80376pt>
-File: FIGURES/LS_FRAMEWORK/EIKONAL.png Graphic file (type png)
-<use FIGURES/LS_FRAMEWORK/EIKONAL.png>
-Package pdftex.def Info: FIGURES/LS_FRAMEWORK/EIKONAL.png  used on input line 684.
-(pdftex.def)             Requested size: 152.33807pt x 134.03893pt.
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 684.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[36
-
- <./FIGURES/LS_FRAMEWORK/LS_STEP_2-eps-converted-to.pdf> <./FIGURES/LS_FRAMEWORK/EIKONAL.png (PNG copy)>]
-Package epstopdf Info: Source file: <FIGURES/LS_FRAMEWORK/LS_STEP_3.eps>
-(epstopdf)                    date: 2026-09-15 23:00:54
-(epstopdf)                    size: 518378 bytes
-(epstopdf)             Output file: <FIGURES/LS_FRAMEWORK/LS_STEP_3-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-09-16 00:21:48
-(epstopdf)                    size: 10807 bytes
-(epstopdf)             Command: <repstopdf --outfile=FIGURES/LS_FRAMEWORK/LS_STEP_3-eps-converted-to.pdf FIGURES/LS_FRAMEWORK/LS_STEP_3.eps>
-(epstopdf)             \includegraphics on input line 684.
-Package epstopdf Info: Output file is already uptodate.
-<FIGURES/LS_FRAMEWORK/LS_STEP_3-eps-converted-to.pdf, id=1175, 664.4825pt x 34.1275pt>
-File: FIGURES/LS_FRAMEWORK/LS_STEP_3-eps-converted-to.pdf Graphic file (type pdf)
-<use FIGURES/LS_FRAMEWORK/LS_STEP_3-eps-converted-to.pdf>
-Package pdftex.def Info: FIGURES/LS_FRAMEWORK/LS_STEP_3-eps-converted-to.pdf  used on input line 684.
-(pdftex.def)             Requested size: 413.48055pt x 21.2364pt.
-<FIGURES/LS_FRAMEWORK/PROPAGATION.png, id=1188, 1446.40375pt x 1285.80376pt>
-File: FIGURES/LS_FRAMEWORK/PROPAGATION.png Graphic file (type png)
-<use FIGURES/LS_FRAMEWORK/PROPAGATION.png>
-Package pdftex.def Info: FIGURES/LS_FRAMEWORK/PROPAGATION.png  used on input line 684.
-(pdftex.def)             Requested size: 152.33807pt x 134.31303pt.
-
-Overfull \vbox (7.61649pt too high) detected at line 684
- []
-
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 684.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[37
-
- <./FIGURES/LS_FRAMEWORK/LS_STEP_3-eps-converted-to.pdf> <./FIGURES/LS_FRAMEWORK/PROPAGATION.png (PNG copy)>]
-Package epstopdf Info: Source file: <FIGURES/LS_FRAMEWORK/LS_STEP_4.eps>
-(epstopdf)                    date: 2026-09-16 00:38:27
-(epstopdf)                    size: 518658 bytes
-(epstopdf)             Output file: <FIGURES/LS_FRAMEWORK/LS_STEP_4-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-09-16 00:39:17
-(epstopdf)                    size: 10803 bytes
-(epstopdf)             Command: <repstopdf --outfile=FIGURES/LS_FRAMEWORK/LS_STEP_4-eps-converted-to.pdf FIGURES/LS_FRAMEWORK/LS_STEP_4.eps>
-(epstopdf)             \includegraphics on input line 684.
-Package epstopdf Info: Output file is already uptodate.
-<FIGURES/LS_FRAMEWORK/LS_STEP_4-eps-converted-to.pdf, id=1211, 664.4825pt x 34.1275pt>
-File: FIGURES/LS_FRAMEWORK/LS_STEP_4-eps-converted-to.pdf Graphic file (type pdf)
-<use FIGURES/LS_FRAMEWORK/LS_STEP_4-eps-converted-to.pdf>
-Package pdftex.def Info: FIGURES/LS_FRAMEWORK/LS_STEP_4-eps-converted-to.pdf  used on input line 684.
-(pdftex.def)             Requested size: 413.48055pt x 21.2364pt.
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 684.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[38
-
- <./FIGURES/LS_FRAMEWORK/LS_STEP_4-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <FIGURES/LS_FRAMEWORK/LS_STEP_5.eps>
-(epstopdf)                    date: 2026-09-16 00:51:08
-(epstopdf)                    size: 520614 bytes
-(epstopdf)             Output file: <FIGURES/LS_FRAMEWORK/LS_STEP_5-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-09-16 00:51:45
-(epstopdf)                    size: 10794 bytes
-(epstopdf)             Command: <repstopdf --outfile=FIGURES/LS_FRAMEWORK/LS_STEP_5-eps-converted-to.pdf FIGURES/LS_FRAMEWORK/LS_STEP_5.eps>
-(epstopdf)             \includegraphics on input line 684.
-Package epstopdf Info: Output file is already uptodate.
-<FIGURES/LS_FRAMEWORK/LS_STEP_5-eps-converted-to.pdf, id=1245, 664.4825pt x 34.1275pt>
-File: FIGURES/LS_FRAMEWORK/LS_STEP_5-eps-converted-to.pdf Graphic file (type pdf)
-<use FIGURES/LS_FRAMEWORK/LS_STEP_5-eps-converted-to.pdf>
-Package pdftex.def Info: FIGURES/LS_FRAMEWORK/LS_STEP_5-eps-converted-to.pdf  used on input line 684.
-(pdftex.def)             Requested size: 413.48055pt x 21.2364pt.
-File: FIGURES/LS_FRAMEWORK/CLIPPED_ICE_SHAPE_CASE_362_3.png Graphic file (type png)
-<use FIGURES/LS_FRAMEWORK/CLIPPED_ICE_SHAPE_CASE_362_3.png>
-Package pdftex.def Info: FIGURES/LS_FRAMEWORK/CLIPPED_ICE_SHAPE_CASE_362_3.png  used on input line 684.
-(pdftex.def)             Requested size: 174.09497pt x 154.78253pt.
-
-Overfull \vbox (23.29259pt too high) detected at line 684
- []
-
-
-
-File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
-<use img_theme/polymtl-watermark.pdf>
-Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 684.
-(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[39
-
- <./FIGURES/LS_FRAMEWORK/LS_STEP_5-eps-converted-to.pdf>]) (./presentation.bbl)
+]) (./presentation.bbl)
 
 File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
 <use img_theme/polymtl-watermark.pdf>
 Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 143.
 (pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
-[40
+[25
+
+]
+
+File: img_theme/polymtl-watermark.pdf Graphic file (type pdf)
+<use img_theme/polymtl-watermark.pdf>
+Package pdftex.def Info: img_theme/polymtl-watermark.pdf  used on input line 143.
+(pdftex.def)             Requested size: 80.3003pt x 42.54399pt.
+[26
+
 
 ]
 \tf@nav=\write6
@@ -2234,18 +1894,18 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: 8ED6149D22019D5CB2985BCC9B6AA5EC;489.
  ) 
 Here is how much of TeX's memory you used:
- 52815 strings out of 473190
- 1302499 string characters out of 5715801
- 1809641 words of memory out of 5000000
- 75022 multiletter control sequences out of 15000+600000
- 581335 words of font info for 102 fonts, out of 8000000 for 9000
+ 52505 strings out of 473190
+ 1283370 string characters out of 5715801
+ 1806141 words of memory out of 5000000
+ 74758 multiletter control sequences out of 15000+600000
+ 572711 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,17n,123p,784b,1035s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfso0800.pfb>
-Output written on presentation.pdf (40 pages, 12659032 bytes).
+ 128i,17n,123p,784b,1029s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfso0800.pfb>
+Output written on presentation.pdf (26 pages, 9860477 bytes).
 PDF statistics:
- 1388 PDF objects out of 1440 (max. 8388607)
- 738 compressed objects within 8 object streams
- 91 named destinations out of 1000 (max. 500000)
- 1811 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 959 PDF objects out of 1000 (max. 8388607)
+ 507 compressed objects within 6 object streams
+ 64 named destinations out of 1000 (max. 500000)
+ 1312 words of extra memory for PDF output out of 10000 (max. 10000000)
 
