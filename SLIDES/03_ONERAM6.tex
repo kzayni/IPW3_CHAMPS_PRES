@@ -1,4 +1,4 @@
-\section[ONERAM6]{\textbf{ONERAM6 Icing Results}}
+\section[ONERAM6]{\textbf{ONERAM6 Results}}
 
 % ============================================================
 % ONERA M6 -- ICING RESULTS
@@ -103,13 +103,6 @@
 
 \vspace{-0.15cm}
 
-\begin{block}{\scriptsize Integrated Aerodynamic Coefficients Assessment}
-CHAMPS predicts the L1 integrated aerodynamic coefficients very close to the
-IPW3 medians, with differences below 2\% for all three coefficients.
-Limited grid sensitivity is observed on the three finest grids, while the
-coarsest L4 grid produces a more noticeable deviation, particularly for $C_D$.
-\end{block}
-
 \end{frame}
 
 % ============================================================
@@ -171,11 +164,6 @@ coarsest L4 grid produces a more noticeable deviation, particularly for $C_D$.
 \end{columns}
 
 \vspace{-0.05cm}
-
-\begin{block}{\scriptsize Pressure-Coefficient Assessment}
-CHAMPS pressure distributions are consistent across the grid hierarchy at all three spanwise stations, with L4 exhibiting the largest deviations.
-\end{block}
-
 \end{frame}
 
 
@@ -310,9 +298,9 @@ CHAMPS pressure distributions are consistent across the grid hierarchy at all th
 \vspace{-0.05cm}
 
 \begin{block}{\scriptsize Impingement Assessment}
-The Eulerian and Lagrangian CHAMPS formulations predict nearly identical
-collection-efficiency distributions at all three spanwise stations, with
-consistent peak collection efficiencies and impingement extents.
+Eulerian and Lagrangian formulations show good agreement in the collection-efficiency
+distributions across all three spanwise stations, with consistent peak values
+and impingement extents.
 \end{block}
 
 \end{frame}
@@ -364,8 +352,8 @@ consistent peak collection efficiencies and impingement extents.
 
 \begin{block}{\scriptsize Ice-Accretion Assessment}
 \begin{itemize}
-    \item CHAMPS predicts approximately $2.8$ kg of ice, with limited sensitivity to both spatial grid refinement and the number of droplet bins.
-    \item Approximately $89\%$ of the impinging water mass is converted to ice; the remaining mass is predominantly lost through evaporation.
+    \item The predicted ice mass is approximately $2.8$ kg, with limited sensitivity to spatial grid refinement and droplet-bin discretization.
+    \item Approximately $89\%$ of the impinging water mass freezes, with the remainder predominantly lost through evaporation.
 \end{itemize}
 \end{block}
 
@@ -375,7 +363,7 @@ consistent peak collection efficiencies and impingement extents.
 % ONERA M6 -- Single-Layer Ice Shapes
 % ============================================================
 
-\begin{frame}{\small ONERA M6 -- Single-Layer Ice-Shape Comparison}
+\begin{frame}{\small ONERA M6 -- Single-Layer Ice-Shape Comparison ($K_s=1\,\mathrm{mm}$)}
 \scriptsize
 
 \vspace{-0.15cm}
@@ -433,9 +421,8 @@ consistent peak collection efficiencies and impingement extents.
 
 \begin{block}{\scriptsize Single-Layer Ice Shapes Assessment}
 \begin{itemize}
-    \item The single-layer ice shapes show limited sensitivity to spatial grid refinement, with L1--L3 providing similar predictions and the largest deviations observed on L4.
-    \item The larger apparent impingement extent on L4 results from its coarser surface discretization rather than a physical shift in the impingement limits.
-    \item The predicted horn geometry varies substantially along the span, with changes in both horn size and orientation between the three spanwise stations.
+    \item Ice shapes show limited grid sensitivity, with L1--L3 providing similar predictions and the largest deviations on L4.
+    \item The larger apparent ice extent on L4 is likely a result of its coarser surface discretization.
 \end{itemize}
 \end{block}
 
@@ -445,18 +432,23 @@ consistent peak collection efficiencies and impingement extents.
 % ONERA M6 -- 3D Multilayer Ice Shape
 % ============================================================
 
-\begin{frame}{\small ONERA M6 -- Three-Dimensional Multilayer Ice Shape}
+\begin{frame}{\small ONERA M6 -- Three-Dimensional Multilayer Ice Shape ($K_s=1\,\mathrm{mm}$)}
 \scriptsize
 
 \vspace{-0.20cm}
 
 \centering
-\includegraphics[
+
+\animategraphics[
+    autoplay,
+    loop,
+    controls=false,
     width=0.5\textwidth,
-    trim={0cm 5cm 0cm 0cm},
+    trim={0.1cm 10cm 0.1cm 0.1cm},
     clip
-]
-{FIGURES/ONERAM6/ICE_VIEWS/ONERAM6.png}
+]{1}{
+    FIGURES/ONERAM6/ICE_VIEWS/M6_ICE_SHAPE_
+}{000001}{000006}
 
 \vspace{-0.10cm}
 
@@ -466,12 +458,29 @@ The level-set approach captures the three-dimensional evolution of the ice geome
 
 \end{frame}
 
+% ============================================================
+% ONERA M6 -- Final 3D Multilayer Ice Shape
+% ============================================================
+
+\begin{frame}{\small ONERA M6 -- Final Three-Dimensional Multilayer Ice Shape ($K_s=1\,\mathrm{mm}$)}
+\scriptsize
+
+\centering
+
+\includegraphics[
+    width=0.65\textwidth,
+    trim={0.1cm 10cm 0.1cm 0.1cm},
+    clip
+]{FIGURES/ONERAM6/ICE_VIEWS/M6_ICE_SHAPE_000006.png}
+
+\end{frame}
+
 
 % ============================================================
 % ONERA M6 -- Multilayer Ice Shapes
 % ============================================================
 
-\begin{frame}{\small ONERA M6 -- Multilayer Ice-Shape Comparison}
+\begin{frame}{\small ONERA M6 -- Multilayer Ice-Shape Comparison ($K_s=1\,\mathrm{mm}$)}
 \scriptsize
 
 \vspace{-0.15cm}
@@ -529,8 +538,8 @@ The level-set approach captures the three-dimensional evolution of the ice geome
 
 \begin{block}{\scriptsize Multilayer Ice Shapes Assessment}
 \begin{itemize}
-    \item CHAMPS predicts a consistent multilayer ice morphology across the three spanwise locations.
-    \item The horn size and extent vary along the span, reflecting the three-dimensional development of the accretion.
+    \item The multilayer simulations show a consistent ice morphology across the three spanwise locations.
+    \item Horn size and extent vary along the span, reflecting the three-dimensional development of the accretion.
 \end{itemize}
 \end{block}
 

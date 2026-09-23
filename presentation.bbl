@@ -1,39 +1,60 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem{clift2005bubbles}
+\bibitem[Clift et~al.(2006)Clift, Grace, and Weber]{clift2005bubbles}
 Roland Clift, John~R Grace, and Martin~E Weber.
-\newblock {\em Bubbles, drops, and particles}, page 157–190.
+\newblock \emph{Bubbles, drops, and particles}, page 157–190.
 \newblock WORLD SCIENTIFIC, April 2006.
+\newblock ISBN 9789812774316.
+\newblock \doi{https://doi.org/10.1142/9789812774316\_0005}.
 
-\bibitem{dapogny2014mmg}
-Charles Dapogny, C{\'e}cile Dobrzynski, and Pascal Frey.
-\newblock Three-dimensional adaptive domain remeshing, implicit domain meshing, and applications to free and moving boundary problems.
-\newblock {\em Journal of Computational Physics}, 262:358--378, 2014.
-
-\bibitem{FROLKOVIC2015214}
-Peter Frolkovič, Karol Mikula, and Jozef Urbán.
-\newblock Semi-implicit finite volume level set method for advective motion of interfaces in normal direction.
-\newblock {\em Applied Numerical Mathematics}, 95:214--228, 2015.
-\newblock Fourth Chilean Workshop on Numerical Analysis of Partial Differential Equations (WONAPDE 2013).
-
-\bibitem{lavoieLevelSet}
-Pierre Lavoie, Emmanuel Radenac, Ghislain Blanchard, Eric Laurendeau, and Philippe Villedieu.
-\newblock Immersed boundary methodology for multistep ice accretion using a level set.
-\newblock {\em Journal of Aircraft}, 59(4):912--926, 2022.
-
-\bibitem{messinger1953}
-Bernard~L. Messinger.
-\newblock Equilibrium temperature of an unheated icing surface as a function of air speed.
-\newblock {\em Journal of the Aeronautical Sciences}, 20(1):29--42, 1953.
-
-\bibitem{OSHER2004}
+\bibitem[Osher and Fedkiw(2004)]{OSHER2004}
 Stanley Osher and R.~Fedkiw.
-\newblock {\em The Level Set Methods and Dynamic Implicit Surfaces}, volume~57, pages xiv+273.
+\newblock \emph{The Level Set Methods and Dynamic Implicit Surfaces},
+  volume~57, pages xiv+273.
 \newblock 05 2004.
+\newblock ISBN 0-387-95482-1.
+\newblock \doi{10.1115/1.1760520}.
 
-\bibitem{spalart1992}
-Philippe~R. Spalart and Steven~R. Allmaras.
-\newblock A one-equation turbulence model for aerodynamic flows.
-\newblock In {\em 30th Aerospace Sciences Meeting and Exhibit}. American Institute of Aeronautics and Astronautics, 1992.
+\bibitem[Frolkovič et~al.(2015)Frolkovič, Mikula, and
+  Urbán]{FROLKOVIC2015214}
+Peter Frolkovič, Karol Mikula, and Jozef Urbán.
+\newblock Semi-implicit finite volume level set method for advective motion of
+  interfaces in normal direction.
+\newblock \emph{Applied Numerical Mathematics}, 95:\penalty0 214--228, 2015.
+\newblock ISSN 0168-9274.
+\newblock \doi{10.1016/j.apnum.2014.05.011}.
+\newblock Fourth Chilean Workshop on Numerical Analysis of Partial Differential
+  Equations (WONAPDE 2013).
+
+\bibitem[Lavoie et~al.(2022)Lavoie, Radenac, Blanchard, Laurendeau, and
+  Villedieu]{lavoieLevelSet}
+Pierre Lavoie, Emmanuel Radenac, Ghislain Blanchard, Eric Laurendeau, and
+  Philippe Villedieu.
+\newblock Immersed boundary methodology for multistep ice accretion using a
+  level set.
+\newblock \emph{Journal of Aircraft}, 59\penalty0 (4):\penalty0 912--926, 2022.
+\newblock \doi{10.2514/1.C036492}.
+
+\bibitem[Donizetti et~al.(2025)Donizetti, Bellosta, Rausa, Re, and
+  Guardone]{alessandroLevelSet}
+Alessandro Donizetti, Tommaso Bellosta, Andrea Rausa, Barbara Re, and Alberto
+  Guardone.
+\newblock Three-dimensional front-tracking technique for multistep simulations
+  of aircraft icing.
+\newblock \emph{Journal of Aircraft}, 62\penalty0 (2):\penalty0 328--340, 2025.
+\newblock \doi{10.2514/1.C037933}.
+
+\bibitem[Dapogny et~al.(2014)Dapogny, Dobrzynski, and Frey]{dapogny2014mmg}
+Charles Dapogny, C{\'e}cile Dobrzynski, and Pascal Frey.
+\newblock Three-dimensional adaptive domain remeshing, implicit domain meshing,
+  and applications to free and moving boundary problems.
+\newblock \emph{Journal of Computational Physics}, 262:\penalty0 358--378,
+  2014.
+\newblock \doi{10.1016/j.jcp.2014.01.005}.
 
 \end{thebibliography}

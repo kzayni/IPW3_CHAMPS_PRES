@@ -44,7 +44,7 @@ Turbulence Model &
 \hline
 
 Heat-Transfer Method &
-\multicolumn{2}{c|}{One Solution + $T_{\mathrm{rec}}$} \\
+\multicolumn{2}{c|}{$T_{\mathrm{rec}}$} \\
 \hline
 
 Droplet Model &
@@ -64,13 +64,11 @@ Thermodynamic Model &
 \hline
 
 Ice Density &
-$580~\mathrm{kg/m^3}$ &
-$680~\mathrm{kg/m^3}$ \\
+\multicolumn{2}{c|}{Constant} \\
 \hline
 
 Surface Roughness &
-$0.2667$ mm / $0.5334$ mm &
-$1.0$ mm \\
+\multicolumn{2}{c|}{Constant} \\
 \hline
 
 Geometry Evolution &
@@ -113,16 +111,13 @@ performed to verify the Eulerian collection-efficiency predictions.
 % ============================================================
 % LEFT -- LEVEL-SET FORMULATION
 % ============================================================
-\begin{minipage}[t]{0.40\textwidth}
-\vspace{0pt}
+\begin{minipage}[t]{0.47\textwidth}
 
 \begin{block}{\scriptsize Level-Set Formulation}
 
 The ice--air interface is implicitly represented by the
-\textbf{zero level set} of a signed-distance function $\phi$
-\cite{OSHER2004,FROLKOVIC2015214,lavoieLevelSet}:
-
-\vspace{-0.10cm}
+\textbf{0-level set} of a signed-distance function $\phi$
+\cite{OSHER2004,FROLKOVIC2015214,lavoieLevelSet, alessandroLevelSet}:
 
 \[
 \frac{\partial \phi}{\partial t}
@@ -136,24 +131,18 @@ The ice--air interface is implicitly represented by the
 \,\boldsymbol{n}_{\phi_0}.
 \]
 
-\vspace{-0.10cm}
-
 \begin{itemize}
-    \setlength{\itemsep}{0.45cm}
+    \setlength{\itemsep}{0.2cm}
 
-    \item $\boldsymbol{n}_{\phi_0}$ denotes the local level-set normal
-    computed from the initial wall-distance field $\phi_0$.
+    \item $\boldsymbol{n}_{\phi_0}$ is computed from the initial wall-distance field $\phi_0$.
 
-    \item The predicted ice thickness defines the interface advection velocity
-    $\boldsymbol{V}$.
+    \item The predicted ice thickness defines the interface velocity $\boldsymbol{V}$.
 
-    \item The interface is advected through unsteady time stepping
-    until either the prescribed icing time or the predicted ice volume is reached.
+    \item The interface is advected through unsteady time stepping until the prescribed icing time or ice volume is reached.
 
-    \item The updated ice geometry is extracted from the
-    $\boldsymbol{\phi=0}$ isosurface using the open-source
-    Mmg library \cite{dapogny2014mmg}, and used for the next accretion layer.
+    \item The $\boldsymbol{\phi=0}$ interface is extracted using Mmg \cite{dapogny2014mmg}, and the computational mesh is regenerated using automated Pointwise scripts.
 
+    \item \textbf{Current caveats:} dedicated level-set meshes are required to avoid restrictive time steps associated with near-wall RANS refinement, and the Mmg-based interface extraction requires a triangular surface mesh.
 \end{itemize}
 
 \end{block}

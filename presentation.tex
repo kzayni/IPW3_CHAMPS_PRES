@@ -51,6 +51,10 @@ menuwidth={0.35\paperwidth}
 \usepackage[table]{xcolor}
 % In your preamble
 \usepackage{tikz}
+% In preamble
+\usepackage{multimedia}
+\usepackage{media9}
+\usepackage{animate}
 \usetikzlibrary{arrows.meta, positioning, fit}
 
 \usepackage[bottom]{footmisc}
@@ -58,7 +62,8 @@ menuwidth={0.35\paperwidth}
 %\usepackage{booktabs} 
 \usepackage[]{algorithmicx}
 \usepackage[]{algpseudocode}
-\bibliographystyle{plain}
+\usepackage[numbers,sort&compress]{natbib}
+\bibliographystyle{unsrtnat}
 \usepackage{setspace}
 \usepackage{marvosym} % \MVRIGHTarrow
 
@@ -111,7 +116,7 @@ arc = 0mm
 \author[K. Zayni]{\small Karim Zayni, PhD Student \\ Maxime Blanchet, PhD Student \\ Éric Laurendeau, PhD, Professor}
 
 
-\date{\small September 24, 2026}
+\date{\small September 23, 2026}
 \institute{Polytechnique Montreal}
 
 \begin{frame}[plain]
@@ -134,12 +139,11 @@ arc = 0mm
 \input{SLIDES/02_NACA0012}
 \input{SLIDES/03_ONERAM6}
 \input{SLIDES/04_CONCLUSION}
-\input{SLIDES/05_BACKUP}
 
 \begin{frame}[allowframebreaks]{\small References}
 \scriptsize
-\nocite{*}
 \bibliography{references}
 \end{frame}
 
+\input{SLIDES/05_BACKUP}
 \end{document}

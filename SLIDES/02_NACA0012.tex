@@ -1,4 +1,4 @@
-\section[NACA0012]{\textbf{NACA0012 Icing Results}}
+\section[NACA0012]{\textbf{NACA0012 Results}}
 
 % ============================================================
 % NACA0012 -- ICING RESULTS
@@ -88,25 +88,20 @@
 & -0.00128 \\
 
 \textbf{IPW3 L1 Median}
-& 0.4657
-& 0.01088
-& -0.00295 \\
+& 0.4677
+& 0.01087
+& 0.00002 \\
 
 \textbf{Difference}
-& +0.43\%
-& +3.77\%
-& +0.00167 \\
+& 0.00\%
+& +3.78\%
+& -0.00131 \\
 
 \bottomrule
 \end{tabular}
 \end{center}
 
 \vspace{-0.15cm}
-
-\begin{block}{\scriptsize Integrated Aerodynamic Coefficients Assessment}
-CHAMPS predicts integrated aerodynamic coefficients close to the IPW3 L1
-median. $C_D$ exhibits the greatest sensitivity to spatial grid refinement.
-\end{block}
 
 \end{frame}
 
@@ -155,10 +150,6 @@ median. $C_D$ exhibits the greatest sensitivity to spatial grid refinement.
 \end{columns}
 
 \vspace{-0.05cm}
-
-\begin{block}{\scriptsize Pressure-Coefficient Assessment}
-CHAMPS predictions are in good agreement with the experimental pressure distribution across all grid levels.
-\end{block}
 
 \end{frame}
 
@@ -218,8 +209,105 @@ CHAMPS predictions are in good agreement with the experimental pressure distribu
 
 \begin{block}{\scriptsize Impingement Assessment}
 \begin{itemize}
-    \item Droplet-bin refinement highly affects the peak collection efficiency and impingement limits.
-    \item Close agreement between the CHAMPS Eulerian and Lagrangian formulations, with minor differences near peak collection efficiency.
+    \item Droplet-bin refinement significantly affects the peak collection efficiency and impingement limits.
+    \item Eulerian and Lagrangian formulations show close agreement, with minor differences near the peak collection efficiency.
+\end{itemize}
+\end{block}
+
+\end{frame}
+
+% ============================================================
+% NACA0012 -- EULERIAN VS LAGRANGIAN DROPLET IMPINGEMENT
+% ============================================================
+
+\begin{frame}{\small NACA0012 -- Eulerian vs. Lagrangian Droplet Impingement}
+\scriptsize
+
+\vspace{-0.15cm}
+
+\begin{columns}[T,onlytextwidth]
+
+% ------------------------------------------------------------
+% PLOT
+% ------------------------------------------------------------
+\begin{column}{0.55\textwidth}
+    \centering
+
+    \includegraphics[
+        width=0.9\textwidth,
+        trim={0cm 0cm 0cm 1.0cm},
+        clip
+    ]
+    {FIGURES/NACA0012/IMPINGEMENT/tc_naca0012_ae3932_water_mass_vs_n_lagrangian_vs_eulerian_bins01_bins07.png}
+\end{column}
+
+\hspace{-0.02\textwidth}
+
+% ------------------------------------------------------------
+% TABLES
+% ------------------------------------------------------------
+\begin{column}{0.45\textwidth}
+    \centering
+
+    % --------------------------------------------------------
+% 01 BIN
+% --------------------------------------------------------
+\textbf{01-bin distribution}
+
+\vspace{0.10cm}
+
+\renewcommand{\arraystretch}{1.20}
+\setlength{\tabcolsep}{2.5pt}
+
+\begin{tabular}{c|cc|c}
+    \toprule
+    \textbf{Grid}
+    & \textbf{Lag. [g]}
+    & \textbf{Eul. [g]}
+    & $\boldsymbol{\Delta}$ \textbf{[\%]} \\
+    \midrule
+    L4 & 103.78 & 106.00 & 2.14 \\
+    L3 & 103.92 & 106.18 & 2.17 \\
+    L2 & 104.66 & 106.02 & 1.30 \\
+    L1 & 105.33 & 106.10 & 0.73 \\
+    \bottomrule
+\end{tabular}
+
+\vspace{0.30cm}
+
+% --------------------------------------------------------
+% 07 BINS
+% --------------------------------------------------------
+\textbf{07-bin distribution}
+
+\vspace{0.10cm}
+
+\begin{tabular}{c|cc|c}
+    \toprule
+    \textbf{Grid}
+    & \textbf{Lag. [g]}
+    & \textbf{Eul. [g]}
+    & $\boldsymbol{\Delta}$ \textbf{[\%]} \\
+    \midrule
+    L4 & 112.22 & 114.60 & 2.12 \\
+    L3 & 112.42 & 114.56 & 1.90 \\
+    L2 & 113.49 & 114.66 & 1.03 \\
+    L1 & 113.66 & 114.64 & 0.86 \\
+    \bottomrule
+\end{tabular}
+
+\end{column}
+
+\end{columns}
+
+\vspace{0.20cm}
+
+% ------------------------------------------------------------
+% ASSESSMENT
+% ------------------------------------------------------------
+\begin{block}{\scriptsize Assessment}
+\begin{itemize}
+    \item Eulerian and Lagrangian formulations show good agreement, with differences in collected water mass decreasing from approximately $2\%$ on L4 to $0.8\%$ on L1 as the grid is refined.
 \end{itemize}
 \end{block}
 
@@ -276,11 +364,11 @@ CHAMPS predictions are in good agreement with the experimental pressure distribu
 % ------------------------------------------------------------
 \begin{block}{\scriptsize Ice-Accretion Assessment}
 \begin{itemize}
-    \item With the 15-bin distribution, CHAMPS predicts the AE3932 ice mass in very good agreement with the experimental value and exhibits limited sensitivity to spatial grid refinement.
+    \item With the 15-bin distribution on L1, the predicted AE3932 ice mass is $103.4$ g, compared with $101.1$ g experimentally ($+2.3\%$), with limited sensitivity to spatial grid refinement.
     
-    \item CHAMPS predicts a slightly lower ice mass for AE3933, with a reduction of approximately $1.5$ g ($\sim1.5\%$) relative to AE3932, compared with the approximately $15\%$ reduction measured experimentally.
+    \item For AE3933, the predicted ice mass decreases by approximately $1.5$ g ($\sim1.5\%$), compared with the $\sim15\%$ reduction measured experimentally.
     
-    \item Approximately $88$--$90\%$ of the impinging water mass freezes into ice, with the remaining water mass lost through evaporation.
+    \item Approximately $88$--$90\%$ of the impinging water mass freezes, with the remainder lost through evaporation.
 \end{itemize}
 \end{block}
 
@@ -334,8 +422,8 @@ CHAMPS predictions are in good agreement with the experimental pressure distribu
 
 \begin{block}{\scriptsize Single-Layer Ice Shapes Assessment}
 \begin{itemize}
-    \item CHAMPS predicts consistent ice shapes across the grid hierarchy, with limited sensitivity to spatial refinement.
-    \item Predictions remain largely within the experimental ice-shape envelope, with the main differences concentrated around the horn regions.
+    \item Ice shapes are consistent across the grid hierarchy, with limited sensitivity to spatial refinement.
+    \item Predictions remain largely within the experimental envelope, with the main differences concentrated near the horn regions.
     \item Unlike the ice mass, the ice shape captures the effect of the warmer AE3933 condition, with a clear change in upper-horn orientation.
 \end{itemize}
 \end{block}
@@ -352,45 +440,126 @@ CHAMPS predictions are in good agreement with the experimental pressure distribu
 
 \vspace{-0.15cm}
 
-\centering
+\begin{columns}[T,onlytextwidth]
 
 % ------------------------------------------------------------
 % AE3932
 % ------------------------------------------------------------
-\begin{minipage}[t]{0.40\textwidth}
+\begin{column}{0.47\textwidth}
     \centering
-    \textbf{AE3932 - $K_s= 0.2667mm$}
 
-    \includegraphics[
-        width=\textwidth
-    ]
-    {FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3932.png}
-\end{minipage}%
-\hspace{1cm}
+    \textbf{AE3932 -- $K_s=0.2667\,\mathrm{mm}$}
+
+    \vspace{0.10cm}
+
+    \animategraphics[
+        autoplay,
+        loop,
+        controls=false,
+        width=\textwidth,
+        trim={0.1cm 10cm 0.1cm 0.1cm},
+        clip
+    ]{1}{
+        FIGURES/NACA0012/ICE_VIEWS/3932_ICE_SHAPE_
+    }{000001}{000006}
+
+\end{column}
+
+\hfill
+
 % ------------------------------------------------------------
 % AE3933
 % ------------------------------------------------------------
-\begin{minipage}[t]{0.40\textwidth}
+\begin{column}{0.47\textwidth}
     \centering
-    \textbf{AE3933 - $K_s= 0.2667mm$}
 
-    \includegraphics[
-        width=\textwidth
-    ]
-    {FIGURES/NACA0012/ICE_VIEWS/NACA0012_AE3933.png}
-\end{minipage}
+    \textbf{AE3933 -- $K_s=0.2667\,\mathrm{mm}$}
 
-\vspace{-0.10cm}
+    \vspace{0.10cm}
 
+    \animategraphics[
+        autoplay,
+        loop,
+        controls=false,
+        width=\textwidth,
+        trim={0.1cm 10cm 0.1cm 0.1cm},
+        clip
+    ]{1}{
+        FIGURES/NACA0012/ICE_VIEWS/3933_ICE_SHAPE_
+    }{000001}{000006}
+
+\end{column}
+
+\end{columns}
+
+\vspace{0.15cm}
+
+% ------------------------------------------------------------
+% ASSESSMENT
+% ------------------------------------------------------------
 \begin{block}{\scriptsize Multilayer Ice Shapes Assessment}
 \begin{itemize}
     \item The multilayer simulations capture the spanwise development of the ice horns.
-    \item Distinct three-dimensional ice morphologies are obtained for the two icing conditions, consistent with the differences observed in the two-dimensional cross-sections.
+    \item Distinct three-dimensional ice morphologies are obtained for the two icing conditions, consistent with the differences observed in the experimental ice scans.
 \end{itemize}
 \end{block}
 
 \end{frame}
 
+% ============================================================
+% NACA0012 -- Final 3D Ice Shapes
+% ============================================================
+
+\begin{frame}{\small NACA0012 -- Final Multilayer Ice Shapes}
+\scriptsize
+
+\vspace{-0.15cm}
+
+\begin{columns}[T,onlytextwidth]
+
+% ------------------------------------------------------------
+% AE3932
+% ------------------------------------------------------------
+\begin{column}{0.47\textwidth}
+    \centering
+
+    \textbf{AE3932 -- $K_s=0.2667\,\mathrm{mm}$}
+
+    \vspace{0.10cm}
+
+    \includegraphics[
+        width=\textwidth,
+        trim={0.1cm 10cm 0.1cm 0.1cm},
+        clip
+    ]{FIGURES/NACA0012/ICE_VIEWS/3932_ICE_SHAPE_000006.png}
+
+\end{column}
+
+\hfill
+
+% ------------------------------------------------------------
+% AE3933
+% ------------------------------------------------------------
+\begin{column}{0.47\textwidth}
+    \centering
+
+    \textbf{AE3933 -- $K_s=0.2667\,\mathrm{mm}$}
+
+    \vspace{0.10cm}
+
+    \includegraphics[
+        width=\textwidth,
+        trim={0.1cm 10cm 0.1cm 0.1cm},
+        clip
+    ]{FIGURES/NACA0012/ICE_VIEWS/3933_ICE_SHAPE_000006.png}
+
+\end{column}
+
+\end{columns}
+
+\vspace{0.15cm}
+
+\end{frame}
 
 % ============================================================
 % NACA0012 -- Multilayer Ice Shapes
